@@ -18,7 +18,7 @@ Open http://localhost:5173
 npm run build
 ```
 
-## �배포 Hosting Instructions
+## Hosting Instructions
 
 ### **Option 1: Vercel (Recommended - Free)**
 
