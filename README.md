@@ -20,8 +20,11 @@ The application features a responsive user interface, secure user authentication
 - Product Browsing
 - Product Search & Filtering
 - Product Details Page
+- Order Details
+- Notifications
 - Shopping Cart
 - Collaborative Bulk Buying
+- collaborative Chat 
 - Secure Online Payments (Razorpay)
 - Order Placement
 - Order History
